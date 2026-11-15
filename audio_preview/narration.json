@@ -1,0 +1,92 @@
+[
+  {
+    "shot": "S01",
+    "file": "vo_S01.wav",
+    "start": 2.6,
+    "duration": 5.056,
+    "shot_seconds": 17.0,
+    "offset": 2.6,
+    "fits": true
+  },
+  {
+    "shot": "S02",
+    "file": "vo_S02.wav",
+    "start": 17.8,
+    "duration": 7.829,
+    "shot_seconds": 16.0,
+    "offset": 1.2,
+    "fits": true
+  },
+  {
+    "shot": "S03",
+    "file": "vo_S03.wav",
+    "start": 33.4,
+    "duration": 7.851,
+    "shot_seconds": 17.0,
+    "offset": 1.2,
+    "fits": true
+  },
+  {
+    "shot": "S04",
+    "file": "vo_S04.wav",
+    "start": 49.8,
+    "duration": 5.44,
+    "shot_seconds": 14.0,
+    "offset": 1.0,
+    "fits": true
+  },
+  {
+    "shot": "S05",
+    "file": "vo_S05.wav",
+    "start": 63.6,
+    "duration": 8.619,
+    "shot_seconds": 16.0,
+    "offset": 1.2,
+    "fits": true
+  },
+  {
+    "shot": "S06",
+    "file": "vo_S06.wav",
+    "start": 79.4,
+    "duration": 8.917,
+    "shot_seconds": 19.0,
+    "offset": 1.4,
+    "fits": true
+  },
+  {
+    "shot": "S07",
+    "file": "vo_S07.wav",
+    "start": 98.0,
+    "duration": 9.707,
+    "shot_seconds": 18.0,
+    "offset": 1.4,
+    "fits": true
+  },
+  {
+    "shot": "S08",
+    "file": "vo_S08.wav",
+    "start": 115.4,
+    "duration": 7.083,
+    "shot_seconds": 17.0,
+    "offset": 1.2,
+    "fits": true
+  },
+  {
+    "shot": "S09",
+    "file": "vo_S09.wav",
+    "start": 132.2,
+    "duration": 8.043,
+    "shot_seconds": 17.0,
+    "offset": 1.4,
+    "fits": true
+  },
+  {
+    "shot": "S10",
+    "file": "vo_S10.wav",
+    "start": 150.4,
+    "duration": 7.083,
+    "shot_seconds": 20.0,
+    "offset": 3.0,
+    "fits": true
+  }
+]

@@ -1,0 +1,7 @@
+bpy>=4.2
+numpy
+scipy
+pillow
+soundfile
+kokoro-onnx
+# FFmpeg must also be on PATH (not a pip package)

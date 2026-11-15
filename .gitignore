@@ -1,0 +1,25 @@
+# rendered output
+frames/
+preview/
+build/
+renders/
+*.mp4
+*.mov
+
+# uncompressed audio masters (attach to a Release instead)
+audio/*.wav
+*.wav
+
+# model weights
+*.onnx
+voices-*.bin
+
+# python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# os
+.DS_Store
+Thumbs.db
